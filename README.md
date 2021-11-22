@@ -24,7 +24,7 @@ These tests will be used to evaluate your skillset and the type of tasks/project
 
 5. Use any code library or framework you like except:
 
-* Jquery
+* jQuery
 * Framer and other design prototyping tools
 
 **Puzzle**:
